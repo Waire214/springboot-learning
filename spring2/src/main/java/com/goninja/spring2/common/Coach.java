@@ -1,4 +1,4 @@
-package com.goninja.spring2;
+package com.goninja.spring2.common;
 
 public interface Coach {
 
